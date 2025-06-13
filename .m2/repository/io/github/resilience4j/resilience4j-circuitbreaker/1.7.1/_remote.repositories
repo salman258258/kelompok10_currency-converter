@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 30 20:05:29 WIB 2023
+resilience4j-circuitbreaker-1.7.1.jar>central=
+resilience4j-circuitbreaker-1.7.1.pom>central=
